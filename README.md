@@ -118,7 +118,7 @@ If your question doesn’t match, try rephrasing it. The bot only recognizes spe
 
 ## 📅 Last Updated
 
-**July 2025**
+**June 2025**
 
 ---
 
